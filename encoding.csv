@@ -1,0 +1,21 @@
+Gender,Race,Satisfaction
+Male,White_not_Hispanic,Very Unhappy
+Male,White_not_Hispanic,Neutral
+Male,White_not_Hispanic,Very Unhappy
+Female,Asian_&_Pacific_Islander,Happy
+Male,Asian_&_Pacific_Islander,Neutral
+Female,Black_not_Hispanic,Neutral
+Male,Black_not_Hispanic,Very Unhappy
+Female,Black_not_Hispanic,Happy
+Female,White_not_Hispanic,Happy
+Female,Black_not_Hispanic,Neutral
+Male,Hispanic,Unhappy
+Male,Hispanic,Very Happy
+Male,Hispanic,Very Happy
+Female,Hispanic,Happy
+Male,Hispanic,Unhappy
+Male,Black_not_Hispanic,Very Happy
+Male,American_Indian_&_Alaska_Native,Very Happy
+Female,American_Indian_&_Alaska_Native,Happy
+Male,American_Indian_&_Alaska_Native,Unhappy
+Female,Asian_&_Pacific_Islander,Neutral
